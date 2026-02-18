@@ -1,0 +1,479 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "CMakeFiles/3.16.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"path" : "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"path" : "CMakeFiles/3.16.3/CMakeCUDACompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCUDAInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/Compiler/NVIDIA-CUDA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FetchContent.cmake"
+		},
+		{
+			"path" : "cmake/FindTorch.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake/pybind11/pybind11ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake/pybind11/pybind11Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGALConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGALConfigBuildVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGALConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_CreateSingleSourceCGALProgram.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_add_test.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_Macros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_VersionUtils.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_Common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_Macros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_TweakFindBoost.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_enable_end_of_configuration_hook.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGALConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGALConfigBuildVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_target_use_TBB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_SCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_SetupCGALDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_SetupGMP.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/FindGMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/FindMPFR.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/FindGMPXX.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/FindGMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_GeneratorSpecificSettings.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_SetupBoost.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_TweakFindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/Boost-1.84.0/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/Boost-1.84.0/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/boost_headers-1.84.0/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/boost_headers-1.84.0/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/CGAL_setup_target_dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/lib/cmake/CGAL/FindTBB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/TBB/TBBConfig.cmake"
+		},
+		{
+			"path" : "pybind11/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"path" : "pybind11/tools/pybind11Common.cmake"
+		},
+		{
+			"path" : "pybind11/tools/pybind11NewTools.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/gb/anaconda3/envs/gaussian-avatars/share/cmake-3.16/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/gb/GaussianAvatars/submodules/tetra-triangulation",
+		"source" : "/home/gb/GaussianAvatars/submodules/tetra-triangulation"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

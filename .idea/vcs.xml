@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nvdiffrast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-gaussian-rasterization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-gaussian-rasterization-avatar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-gaussian-rasterization-avatar/third_party/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/diff-gaussian-rasterization/third_party/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/simple-knn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodules/tetra-triangulation/pybind11" vcs="Git" />
+  </component>
+</project>
